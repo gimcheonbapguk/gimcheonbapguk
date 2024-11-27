@@ -1,4 +1,13 @@
-### OSS 수업 관련
+## 🚀 사용 가능한 기술 & 도구
+
+- **프로그래밍 언어**: C++, Python
+- **데이터베이스**: MySQL
+- **클라우드**: AWS
+
+## 🎮 관심 있는 분야
+
+- **게임 디자인**
+- **멀티플레이어 및 네트워크 게임 개발**
 
 <!--
 **gimcheonbapguk/gimcheonbapguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
